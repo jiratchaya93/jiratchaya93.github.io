@@ -1,7 +1,7 @@
 html body {
     background-color: black;
-    scroll-snap-type: y mandatory;
-    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -235,8 +235,8 @@ html body {
     align-items: center;
     justify-content: space-between;
     padding: 100px;
-    scroll-snap-align: center;
 }
+    
 .AB-left-S {
     color: #69003a;
     margin-top: -25px;
@@ -251,6 +251,9 @@ html body {
     margin-top: -10px;
     font-size: 17.5px;
 }
+
+
+
 
 .About-btn {
     display: flex;
