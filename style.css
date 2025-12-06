@@ -258,6 +258,10 @@ body {
 
 }
 
+.About-left img{
+    border-radius: 100px;
+}
+
 .About-item {
     color: #ffffff;
     text-decoration: none;
@@ -269,5 +273,20 @@ body {
     transform: scale(1.1);
 }
 
-.About-left img { 
+.Portfolio {
+    align-items: center;
+    text-align: center;
+    font-size: 60px;
+    color: #720046;
+
+}
+
+.Certificate {
+    color: #ffffff;
+}
+
+
+
+.tub {
+    color: #ffffff;
 }
